@@ -4,7 +4,8 @@
 [open-sourced](https://news.developer.nvidia.com/nvidia-tensorrt-inference-server-now-open-source/).
 This repo is no longer accepting changes and will soon be closed so please 
 move all future issues and pull requests to
-https://github.com/NVIDIA/tensorrt-inference-server.**
+https://github.com/NVIDIA/tensorrt-inference-server. The client libraries and examples from this repo
+are included in the new repo. See https://docs.nvidia.com/deeplearning/sdk/tensorrt-inference-server-master-branch-guide/docs/client.html for instructions on how to build and run the libraries and examples in the new repo.**
 
 The NVIDIA TensorRT Inference Server provides a cloud inferencing
 solution optimized for NVIDIA GPUs. The inference server provides
